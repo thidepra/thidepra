@@ -10,6 +10,7 @@
 - 🍺 Mestre cervejeira nas horas vagas
 - 🧉 Viciada em chimarrão/mate
 - 🎥 Curiosa e apaixonada por livros, series e filmes
+<br>
 
 ##
 
