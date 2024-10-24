@@ -1,6 +1,6 @@
 ## 👋 Oi! Eu sou Thiane Deprá Saravalle
 
-<img align="right" alt="Coding" width="300" src="./src/girltea.gif">
+<img align="right" alt="Coding" width="400" src="./src/girltea.gif">
 
 - 💻 Hoje trabalho na F1RST Digital Services como It Analyst-QE
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP
@@ -9,6 +9,7 @@
 - 🔍 Pós-graduada em Química pela UFSM e UFSCar
 - 🍺 Mestre cervejeira nas horas vagas
 - 🎥 Curiosa e apaixonada por series e filmes
+<br>
 
 ##
 
