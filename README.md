@@ -8,7 +8,7 @@
 - 🔭 Graduada em Química Bacharelado pela UFSM
 - 🔍 Pós-graduada em Química pela UFSM e UFSCar
 - 🍺 Mestre cervejeira nas horas vagas
-- 🎥 Curiosa e apaixonada por series e filmes
+- 🎥 Curiosa e apaixonada por livros, series e filmes
 <br>
 
 ##
