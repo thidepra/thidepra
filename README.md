@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="./src/girltea.gif">
 
-- 💻 Hoje trabalho na F1RST Digital Services como It Analyst/QE
+- 💻 Hoje trabalho na F1RST Digital Services como Software Developer/QA
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP
 - 📖 Estudando Java e Solidity
 - 🔭 Graduada em Química Bacharelado pela UFSM
