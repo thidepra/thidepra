@@ -2,11 +2,10 @@
 
 <img align="right" alt="Coding" width="400" src="./src/girltea.gif">
 
-- 💻 Hoje trabalho na F1RST Digital Services como Software Developer/QA
+- 💻 Software Developer/Developer Test Automation na F1RST Digital Services
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP
-- 📖 Estudando Java e Solidity
-- 🔭 Graduada em Química Bacharelado pela UFSM
-- 🔍 Pós-graduada em Química pela UFSM e UFSCar
+- 📖 Estudando Java e Automação de Testes
+- 🔍 Graduada e Pós-graduada em Química pela UFSM e UFSCar
 - 🍺 Mestre cervejeira nas horas vagas
 - 🧉 Viciada em chimarrão/mate
 - 🎥 Curiosa e apaixonada por livros, series e filmes
